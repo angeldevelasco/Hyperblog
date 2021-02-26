@@ -21,7 +21,10 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
-
+#header
+{
+    image: dragon.png
+}
 #container
 {
     width: 70%;
